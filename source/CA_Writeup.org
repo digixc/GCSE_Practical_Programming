@@ -18,14 +18,14 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- You must produce a report detailing all of the stages you have gone through to solve the problem and to create and refine your solution.
+- You must *produce* a =report detailing all of the stages= you have gone through to =solve the problem= and to *create* and *refine* your solution.
 - This report is important because it provides evidence of the methods you have used to solve the problem you have been set.
-- You will be awarded marks for:
+- *You will be awarded marks for:*
 - 1. Designing of the Solution – 9 marks.
-- 2.  Creating the Solution – 30 marks.
-- 3.  Testing the Solution – 21 marks.
-- 4.  Potential Enhancements and Refinements – 10 marks.
-- 5.  Overall Quality of the Report – 10 marks.
+- 2. Creating the Solution – 30 marks.
+- 3. Testing the Solution – 21 marks.
+- 4. Potential Enhancements and Refinements – 10 marks.
+- 5. Overall Quality of the Report – 10 marks.
 *Total maximum marks – 80 marks*		
 
 ** Part 1 - Designing of the Solution (9 Marks)
